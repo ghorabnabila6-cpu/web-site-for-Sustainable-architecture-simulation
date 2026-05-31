@@ -1,0 +1,9 @@
+<!xml <version="10"> encoding <utf-8> 
+<somme>
+<var>x</var>
+<calcule> <base="x"> <puissance="2/"></calcule>
+<calcule> <racine degre="4"> </calcule>
+</somme>
+   
+ 
+ 
